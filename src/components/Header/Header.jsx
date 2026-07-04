@@ -41,7 +41,7 @@ const Header = () => {
             <option value="Chennai">Chennai</option>
             <option value="Jaipur">Jaipur</option>
             <option value="Delhi">Delhi</option>
-            <option value="Mumbai">Mumbai</option>
+            <option value="Hyderabad">Hyderabad</option>
             <option value="Kolkata">Kolkata</option>
           </select>
           |
